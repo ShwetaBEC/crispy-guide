@@ -1,0 +1,48 @@
+2020-02-06 15:12:02,518 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] Starting StatefarmOpenidApplicationTests on yml-Latitude-3490 with PID 14058 (started by shweta in /home/shweta/Downloads/statefarm-openid)
+2020-02-06 15:12:02,520 DEBUG com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-06 15:12:02,520 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] The following profiles are active: local
+2020-02-06 15:12:03,220 INFO com.ymedialabs.statefarmopenid.AWSSystemManager [main] ***************************
+
+
+2020-02-06 15:12:04,673 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] Started StatefarmOpenidApplicationTests in 2.363 seconds (JVM running for 3.401)
+2020-02-06 15:17:58,497 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] Starting StatefarmOpenidApplicationTests on yml-Latitude-3490 with PID 16908 (started by shweta in /home/shweta/Downloads/statefarm-openid)
+2020-02-06 15:17:58,498 DEBUG com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-06 15:17:58,498 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] The following profiles are active: local
+2020-02-06 15:17:59,262 INFO com.ymedialabs.statefarmopenid.AWSSystemManager [main] ***************************
+
+
+2020-02-06 15:18:00,665 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplicationTests [main] Started StatefarmOpenidApplicationTests in 2.337 seconds (JVM running for 3.012)
+2020-02-06 15:19:36,181 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Starting StatefarmOpenidApplication on yml-Latitude-3490 with PID 17639 (/home/shweta/Downloads/statefarm-openid/target/classes started by shweta in /home/shweta/Downloads/statefarm-openid)
+2020-02-06 15:19:36,182 DEBUG com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-06 15:19:36,182 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] The following profiles are active: local
+2020-02-06 15:19:36,876 INFO com.ymedialabs.statefarmopenid.AWSSystemManager [main] ***************************
+
+
+2020-02-06 15:19:37,665 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Started StatefarmOpenidApplication in 1.671 seconds (JVM running for 1.922)
+2020-02-06 15:20:11,670 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Starting StatefarmOpenidApplication on yml-Latitude-3490 with PID 18038 (/home/shweta/Downloads/statefarm-openid/target/classes started by shweta in /home/shweta/Downloads/statefarm-openid)
+2020-02-06 15:20:11,671 DEBUG com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-06 15:20:11,671 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] The following profiles are active: local
+2020-02-06 15:20:12,423 INFO com.ymedialabs.statefarmopenid.AWSSystemManager [main] ***************************
+
+
+2020-02-06 15:20:13,155 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-02-06 15:20:47,195 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Starting StatefarmOpenidApplication on yml-Latitude-3490 with PID 18353 (/home/shweta/Downloads/statefarm-openid/target/classes started by shweta in /home/shweta/Downloads/statefarm-openid)
+2020-02-06 15:20:47,196 DEBUG com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-06 15:20:47,196 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] The following profiles are active: local
+2020-02-06 15:20:47,863 INFO com.ymedialabs.statefarmopenid.AWSSystemManager [main] ***************************
+
+
+2020-02-06 15:20:48,563 INFO com.ymedialabs.statefarmopenid.StatefarmOpenidApplication [main] Started StatefarmOpenidApplication in 1.567 seconds (JVM running for 1.869)
