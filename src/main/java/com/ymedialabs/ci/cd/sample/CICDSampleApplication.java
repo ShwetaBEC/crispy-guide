@@ -1,4 +1,4 @@
-package com.ymedialabs.statefarmopenid;
+package com.ymedialabs.ci.cd.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,10 +12,10 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
-public class StatefarmOpenidApplication {
+public class CICDSampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StatefarmOpenidApplication.class, args);
+		SpringApplication.run(CICDSampleApplication.class, args);
 	}
 	
 	@Bean
@@ -26,5 +26,4 @@ public class StatefarmOpenidApplication {
             .paths(PathSelectors.any())
             .build();
     }
-
 }

@@ -1,4 +1,4 @@
-package com.ymedialabs.statefarmopenid.model;
+package com.ymedialabs.ci.cd.sample.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -26,6 +26,9 @@ public class User {
 
     @Column(name = "email")
     private String email;
+    
+    @Column(name = "alias")
+    private String alias;
     
     @Column(name = "firstname")
     private String firstName;

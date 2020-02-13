@@ -1,5 +1,5 @@
-# Statefarm-OpenId-Backend
-An authentication and user management service for authenticating several statefarm application users.
+# crispy-guide
+Simple Java application for quick project set up
 
 ## Getting Started
 

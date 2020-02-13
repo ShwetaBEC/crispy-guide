@@ -1,4 +1,4 @@
-package com.ymedialabs.statefarmopenid.model;
+package com.ymedialabs.ci.cd.sample.model;
 
 import static javax.persistence.TemporalType.TIMESTAMP;
 
@@ -47,4 +47,7 @@ public class UserSession {
 	@Temporal(TIMESTAMP)
     @Column(name="updated_at")
     private Date updatedAt;
+    
+    @Column(name="is_deleted ")
+    private boolean isDeleted;
 }

@@ -1,4 +1,4 @@
-package com.ymedialabs.statefarmopenid.exception;
+package com.ymedialabs.ci.cd.sample.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

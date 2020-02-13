@@ -1,4 +1,4 @@
-package com.ymedialabs.statefarmopenid;
+package com.ymedialabs.ci.cd.sample;
 
 import java.util.HashMap;
 import java.util.Map;
